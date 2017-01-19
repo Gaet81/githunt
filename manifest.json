@@ -28,7 +28,7 @@
   "homepage_url": "https://github.com/Gaet81/githunt",
   "options_ui": {
     "page":"options.html"
-  }
+  },
   "browser_action": {
     "default_title": "Githunt",
     "default-icon": {
